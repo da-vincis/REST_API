@@ -1,6 +1,4 @@
-# In this project we will test REST API endpoint in Python using PyTest 
-[![LinkedIn][linkedin-shield]][linkedin-url]
-<br />
+# In this project we will test REST API endpoint in Python using PyTest <br />
 
 _#All the libraries are installed in the myenv virtual environment, so actually you don't have to install anything_ <br /><br />
 
