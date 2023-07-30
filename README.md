@@ -13,7 +13,7 @@ it has API endpoints for creating, updating, getting and deleting an item <br />
 ![rest_api_test](https://github.com/da-vincis/RestAPI/assets/139674525/b3a7eb38-ee69-471d-a74e-167f165c5f67)
 
 
-_The link of the API docs is https://todo.pixegami.io/docs_<br />
+_The link of the API docs is `https://todo.pixegami.io/docs`_<br />
 
 **The schedule is:**
 1. Make requests to the API endpoints for creating, updating, getting and deleting an item
@@ -25,8 +25,8 @@ _The link of the API docs is https://todo.pixegami.io/docs_<br />
 
 **Use the following commands to run tests:**
 
-- To run all the files in the project which are test(those are starting with test_ name) use the following command: pytest -m
+- To run all the files in the project which are test(those are starting with test_ name) use the following command: `pytest -m`
 - To see more details about the test add the v flag: `pytest -m -v`
-- To run only the specific test use the following command: pytest -v -s .\test_todo_api.py::name_of_the_test (Example: pytest -v -s .\test_todo_api.py::test_can_delete_task) <br /><br />
-> _If you get the "The term 'pytest' is not recognized..." error use the following command: python <a flag> pytest (Example: python -m pytest)_<br /><br />
+- To run only the specific test use the following command: `pytest -v -s .\test_todo_api.py::name_of_the_test` (Example: `pytest -v -s .\test_todo_api.py::test_can_delete_task`) <br /><br />
+> _If you get the "The term 'pytest' is not recognized..." error use the following command: `python <a flag> pytest` (Example: `python -m pytest`)_<br /><br />
 # Thanks for watching, I appreciate feedbacks if any <br />
